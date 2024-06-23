@@ -1,0 +1,39 @@
+.container-question {
+    margin: 20px;
+  }
+  
+  .container-options {
+    display: flex;
+    justify-content: center;
+    flex-wrap: no-wrap;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .container-options button{
+      border: 1px dashed #ccc;
+      background-color: rgb(38, 24, 41);
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor:  grabbing;
+    
+    
+    /* border-radius: 5px;*/
+  }
+  
+ button.correct {
+    background-color: rgb(56, 209, 94);
+    color: rgb(236, 196, 16);
+  }
+  
+  button.incorrect {
+    background-color: red;
+    color: rgb(236, 196, 16);
+  }
+  button:hover{
+    color:aqua;
+  }
+  
