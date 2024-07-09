@@ -48,29 +48,29 @@
 
 .category-selector {
   margin-bottom: 20px;
+ 
 }
 
-/* .category-selector button {
+.category-selector button {
   margin: 0 5px;
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  /* border: 1px solid #ccc; */
-  /* border-style: 2px dotted #fc0000;
+  border: 1px solid #ccc; 
   border-radius: 5px;
-} */ */
+}
 
 button:focus {
   outline: none;
 }
 
 
-.quiz-container {
+/* .quiz-container {
   text-align: center;
   margin-top: 50px;
-}
+} */
 
-.modal {
+/* .modal {
   position: fixed;
   top: 50%;
   left: 50%;
@@ -79,4 +79,4 @@ button:focus {
   padding: 20px;
   border: 1px solid #ccc;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
+} */

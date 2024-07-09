@@ -8,10 +8,10 @@ export const questions ={
             questions: "Which country has the largest population?", answer: "China",
             options: ["Russia", "India", "China", "Canada"]
         },
-        {
-            questions: "What are the names of the five oceans?", answer: ["Atlantic", "Pacific", "Indian", "Artic", "and The Antartic"],
-            options: ["Atlantic", "Pacific", "Indian", "Artic", "and The Antartic", ["Atantic", "Pacifc", "Indian", "Artic", "and The Antartic"]]
-        },
+        //{
+        //     questions: "What are the names of the five oceans?", answer: ["Atlantic", "Pacific", "Indian", "Artic", "and The Antartic"],
+        //     options: ["Atlantic", "Pacific", "Indian", "Artic", "and The Antartic", ["Atantic", "Pacifc", "Indian", "Artic", "and The Antartic"]]
+        // },
         {
             questions: "What is the longest above water mountain range in the world?", answer: "The Andes",
             options: ["The Himalayas", "The Alps","The Andes", "The Rockies"]
